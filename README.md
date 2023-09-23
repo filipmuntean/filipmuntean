@@ -2,9 +2,7 @@
 
 # 📫 How to Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-muntean-54bb247b/)
-[Filip Muntean](mailto:filip.mihai.muntean@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
-[!Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)(mailto:filip.mihai.muntean@gmail.com?)
+<a href="mailto:filip.mihai.muntean@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 # 📊 GitHub Stats: 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=filipmuntean&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
