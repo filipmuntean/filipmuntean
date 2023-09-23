@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 # 📊 GitHub Stats: 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=filipmuntean&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=filipmuntean&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=filipmuntean&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=filipmuntean&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!--
 **filipmuntean/filipmuntean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+&theme=radical&hide_border=false&include_all_commits=true
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
