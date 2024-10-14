@@ -3,8 +3,11 @@
 # 📫 How to Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-muntean-54bb247b/)  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipmorris@duck.com)
-[filipmorris@duck.com](mailto:filipmorris@duck.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filip.mihai.muntean@gmail.com)
+
+
+<a href="mailto:obama@whitehouse.gov?subject=Congrats%20Obama"></a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:f.muntean@student.vu.nl?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
