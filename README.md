@@ -3,7 +3,7 @@
 # 📫 How to Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-muntean-54bb247b/)  
 
-[filipmorris@duck.com](mailto:filipmorris@duck.com)
+[filipmorris@duck.com](mailto:filipmorris@duck.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 # 📊 GitHub Stats: 
